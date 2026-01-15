@@ -1,0 +1,4 @@
+Topics covered:
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT INTO
